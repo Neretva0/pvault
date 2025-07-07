@@ -50,3 +50,6 @@ cargo run -- delete github
 
 ## License
 MIT 
+
+## Note
+This is my first time building a password manager, and I'm continuously learning and refining my work. Feedback, suggestions, or code reviews are always welcome and appreciated!
